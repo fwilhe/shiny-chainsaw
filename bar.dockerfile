@@ -1,0 +1,1 @@
+FROM ghcr.io/gardenlinux/builder@sha256:e1a208ec704630ef083a8639ba879f07ee9bd7f562d820847ee0bbedd8da01ab
